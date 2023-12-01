@@ -2,6 +2,7 @@
 Esqueleto de projeto em docker do symfony
 
 # Install 
+- Create folder app
 - execute docker-compose up -d --build
 - After running the docker build, enter php docker and run the following commands
 - symfony check:requirements
